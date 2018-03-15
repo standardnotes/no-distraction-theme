@@ -1,1 +1,1 @@
-# Dynamic Theme
+# No Distraction Theme
