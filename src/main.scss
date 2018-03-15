@@ -1,0 +1,27 @@
+#editor-title-bar {
+  display: none;
+}
+
+.section.tags {
+  flex: none !important;
+  width: 0px !important;
+  transition: width 0.25s;
+}
+
+.section.tags:hover {
+  flex: initial;
+  width: 0px !important;
+  transition: width 0.25s;
+}
+
+.section.notes {
+  flex: none !important;
+  width: 0px !important;
+  transition: width 0.25s;
+}
+
+.section.notes:hover {
+  flex: initial;
+  width: 0px !important;
+  transition: width 0.25s;
+}
