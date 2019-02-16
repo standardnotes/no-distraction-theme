@@ -40,6 +40,7 @@
   flex: none !important;
   width: 0px !important;
   transition: width 0.25s;
+  border: none !important;
 }
 
 .section.notes:hover {
