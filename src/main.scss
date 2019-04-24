@@ -25,6 +25,15 @@
   display: none;
 }
 
+#footer-bar {
+  opacity: 0.08;
+  transition: opacity 0.25s;
+}
+
+#footer-bar:hover {
+  opacity: 1.0;
+}
+
 .section.tags {
   flex: none !important;
   width: 0px !important;
